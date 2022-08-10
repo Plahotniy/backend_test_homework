@@ -1,2 +1,4 @@
 backend_test_homework
 .idea
+venv
+__pycache__
